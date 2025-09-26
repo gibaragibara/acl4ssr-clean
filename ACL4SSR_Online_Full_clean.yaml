@@ -77,8 +77,8 @@ proxy-groups:
   - name: 哔哩哔哩
     type: select
     proxies:
-      - 手动切换
       - 全球直连
+      - 手动切换
       - 台湾节点
       - 香港节点
   - name: 国外媒体
